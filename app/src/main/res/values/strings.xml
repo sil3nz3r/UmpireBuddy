@@ -7,9 +7,11 @@
     <string name="Strike_text">Strike :</string>
     <string name="Strike_count">0</string>
     <string name="Strike_button_text">Hit for strike</string>
+    <string name="Strike_out_text">Out!</string>
 
     <string name="Ball_text">Ball :</string>
     <string name="Ball_count">0</string>
     <string name="Ball_button_text">Hit for ball</string>
+    <string name="Base_on_balls_text">Walk!</string>
 
 </resources>
